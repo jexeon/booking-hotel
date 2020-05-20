@@ -1,2 +1,2 @@
-# booking-hotel
+#  酒店预定管理系统
 酒店预定小程序，api使用go，前端vue
